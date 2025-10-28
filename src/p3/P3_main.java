@@ -1,0 +1,19 @@
+package p3;
+
+public class P3_main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i = 2, j = 3, k = 4;
+		if (i < j) {
+			System.out.println("A");
+		}
+		if (i < k) {
+			System.out.println("B");
+		}
+
+		if (j < k) {
+			System.out.println("C");
+		}
+	}
+}
