@@ -4,7 +4,9 @@ public class H3_main {
 
 	public static void main(String[] args) {
 
-		int i = 1, j = 2, k = -10;
+		int i = 1, j = 2, k = 5;
+		
+		k = -10;
 
 		if (i > j) {
 
